@@ -1,4 +1,5 @@
 import React from "react";
+import { binar_icon } from "../images";
 
 const Footer = () => {
     return (
@@ -68,7 +69,7 @@ const Footer = () => {
                                 Copyright Binar 2022
                             </h6>
                         <div class="flex items-center justify-center md:justify-start mb-4">
-                                <img src = "/src/images/Rectangle-74.png" />
+                                <img src = {binar_icon} />
                         </div>
                         </div>
                     </div>
