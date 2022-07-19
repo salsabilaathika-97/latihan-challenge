@@ -1,13 +1,10 @@
 import './App.css';
-import FAQ from './components/FAQ';
-import Accordion from './components/Accordion';
-
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      <FAQ />
-      <Accordion />
+        <Footer />
     </div>
   );
 }
