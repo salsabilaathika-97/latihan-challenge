@@ -1,10 +1,10 @@
 import './App.css';
-import CTA_Banner from './components/CTA_Banner';
+import Testimonial from './components/Testimonial';
 
 function App() {
   return (
     <div className="App">
-        <CTA_Banner />
+        <Testimonial />
     </div>
   );
 }
