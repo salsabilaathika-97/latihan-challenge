@@ -4,7 +4,15 @@ module.exports = {
   theme: {
     extend: {
       width: {
-        '668': '668px'
+        '668': '668px',
+        '613': '613px',
+      },
+      height: {
+        '326' : '326px',
+        '54' : '54px',
+      },
+      colors: {
+        'binar-blue' : '#0D28A6'
       }
     },
   },

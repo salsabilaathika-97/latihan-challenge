@@ -1,10 +1,10 @@
 import './App.css';
-import Footer from './components/Footer';
+import CTA_Banner from './components/CTA_Banner';
 
 function App() {
   return (
     <div className="App">
-        <Footer />
+        <CTA_Banner />
     </div>
   );
 }
